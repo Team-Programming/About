@@ -5,7 +5,7 @@ An open source programming space for teams to build, learn and collaborate on co
 The focus is on introducing and building up brand new/junior developers looking to improve their teamwork, leadership, collaboration and programming skills through small team simple projects.  Experienced developers are welcome as well but please don't scare off those who are new.
 
 # Inclusion
-Joining the organization is open to anyone with an interest in software programming/coding or learning how to start as well as anyone willing to mentor those who are in their early stages of learning.
+Joining the organization is open to anyone with an interest in software programming/coding or learning how to start as well as anyone willing to mentor those who are in their early stages of learning. Hop on [slack](https://team-programming-talk.slack.com/archives/C03K9C681LY) and say hello!
 
 # Learning
 Our organization is filled with repositories that help the absolute beginner with the most basic of concepts as well as advanced guides for those willing to learn more.
