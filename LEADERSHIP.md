@@ -1,0 +1,6 @@
+# Leadership
+Team leaders, it is your job to cultivate a collaborative working environment where your members are able to learn, grow, ask questions and make mistakes without pressure, sarcasm, or pride thrown their way.  I know many people come from a hard background or have been forced to hit certain standards and time frames.  That is not what this space is about.  It is a place to have the time, space, support and collaboration to grow and learn in whatever way works best for those involved.  
+
+Your time and experience with people who are not like you or who struggle will improve your patience, compassion, and understanding of people as well as technology and will serve you well for the rest of your life.  Take those experiences and embrace them, they will only better you and the people you are working with.
+
+One technical requirement of team leaders is to read, understand and commit to upholding the ground rules.  An organizational culture will only thrive if everyone is on the same page in regards to what is and isn't acceptable.
